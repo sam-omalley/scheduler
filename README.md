@@ -1,1 +1,1 @@
-[Link to Scheduler](https://omalsa04.github.io/scheduler/)
+[Link to Scheduler](https://sam-omalley.github.io/scheduler/)
